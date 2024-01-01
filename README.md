@@ -1,0 +1,1 @@
+An OpenAI conversational Chat Bot. The OpenAI API key has to be used an put in a .env file.
